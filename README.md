@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Projeto prático da Trilha Explorer da Rocketseat.
 
-- [Acesse o projeto finalizado, online](https://links.hugolino.dev/)
+- [Acesse o projeto finalizado, online](https://hugolinobg.github.io/GridComAnimacoes/)
 
 ## 🔖 Layout
 
